@@ -1,31 +1,47 @@
 'use strict';
 
 module.exports = {
-  url: 'https://genevievecrow.io',
-  title: 'Genevieve Crow',
-  subtitle: 'A sometimes web developer residing in Missoula, Montana. Prefers human pronouns.',
+  url: 'https://lumen.netlify.com',
+  pathPrefix: '/',
+  title: 'Blog by John Doe',
+  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: '',
+  googleAnalyticsId: 'UA-73379983-2',
+  useKatex: false,
   menu: [
     {
-      label: 'Posts',
+      label: 'Articles',
       path: '/'
     },
     {
-      label: 'About',
+      label: 'About me',
       path: '/pages/about'
+    },
+    {
+      label: 'Contact me',
+      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'Genevieve Crow',
+    name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'A sometimes web developer residing in Missoula, Montana. Prefers human pronouns.',
+    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
     contacts: {
-      email: 'mailto:genevieve.crow@gmail.com',
-      github: 'https://github.com/g-crow',
-      rss: '#'
+      email: '',
+      facebook: '#',
+      telegram: '#',
+      twitter: '#',
+      github: '#',
+      rss: '',
+      vkontakte: '',
+      linkedin: '#',
+      instagram: '#',
+      line: '',
+      gitlab: '',
+      weibo: '',
+      codepen: ''
     }
   }
 };

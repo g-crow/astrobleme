@@ -1,15 +1,15 @@
 ---
-title: Embracing the Imposter
-date: "2019-06-02T23:46:37.121Z"
+title: Perfecting the Art of Perfection
+date: "2016-09-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/embracing-the-imposter/"
-category: "Tech"
+slug: "/posts/perfecting-the-art-of-perfection/"
+category: "Design Inspiration"
 tags:
-  - "Gender Issues"
-  - "Learning to code"
-  - "Personal development"
-description: "Why acknowleging limitations is not a syndrome. At interdum magna, augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+  - "Handwriting"
+  - "Learning to write"
+description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
+socialImage: "/media/image-2.jpg"
 ---
 
 Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
