@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Genevieve Crow',
+  subtitle: 'I like to make complicated things simpler and vice versa',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,22 +12,22 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'Posts',
       path: '/'
     },
     {
-      label: 'About me',
+      label: 'About',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
+      label: 'Contact',
       path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Genevieve Crow',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Likes making complicated things simpler and vis versa',
     contacts: {
       email: '',
       facebook: '#',
