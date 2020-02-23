@@ -33,15 +33,15 @@ module.exports = {
       facebook: '',
       telegram: '',
       twitter: '',
-      github: 'g-crow/',
       rss: '',
       vkontakte: '',
       linkedin: 'genevievecrow/',
       instagram: 'grnnrvrvr',
       line: '',
+      github: 'g-crow',
       gitlab: '',
       weibo: '',
-      codepen: ''
+      codepen: '',
     }
   }
 };
