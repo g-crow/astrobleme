@@ -6,7 +6,7 @@ WORKDIR /usr/src/app
 COPY . .
 
 RUN yarn install
-RUN yarn build
+RUN gatsby build
 RUN rm -rf ./src ./node_modules /usr/local/lib/node_modules /usr/local/share/.cache/yarn/
 RUN mkdir -p /run/nginx
 
