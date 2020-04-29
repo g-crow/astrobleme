@@ -11,7 +11,6 @@ const Page = ({ title, children }: Props) => {
 
   useEffect(() => {
     pageRef.current.scrollIntoView();
-    console.log(title)
   });
 
   return (
@@ -21,20 +20,21 @@ const Page = ({ title, children }: Props) => {
           <div className={styles['page__body']}>
           {children}
           {title === "Contact me" && 
-            <form name="contact" method="POST" data-netlify="true">
-            <p>
-              <label>Your Name: <input type="text" name="name" /></label>   
-            </p>
-            <p>
-              <label>Your Email: <input type="email" name="email" /></label>
-            </p>
-            <p>
-              <label>Message: <textarea name="message"></textarea></label>
-            </p>
-            <p>
-              <button type="submit">Send</button>
-            </p>
-          </form>
+            <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+              <input type="hidden" name="form-name" value="contact" />
+              <p>
+                <label>Your Name: <input type="text" name="name" /></label>   
+              </p>
+              <p>
+                <label>Your Email: <input type="email" name="email" /></label>
+              </p>
+              <p>
+                <label>Message: <textarea name="message"></textarea></label>
+              </p>
+              <p>
+                <button type="submit">Send</button>
+              </p>
+            </form>
           }
         </div>
       </div>
