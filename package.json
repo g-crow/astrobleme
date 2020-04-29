@@ -42,6 +42,7 @@
     "bluebird": "^3.7.2",
     "classnames": "^2.2.6",
     "codecov": "^3.6.5",
+    "codemirror": "^5.53.2",
     "gatsby": "^2.21.4",
     "gatsby-cli": "^2.8.30",
     "gatsby-link": "^2.4.0",
@@ -72,7 +73,7 @@
     "gatsby-transformer-sharp": "^2.5.0",
     "ink": "^2.7.1",
     "invariant": "^2.2.4",
-    "katex": "^0.11.1",
+    "katex": "^0.10.2",
     "lodash": "^4.17.15",
     "moment": "^2.24.0",
     "netlify-cms-app": "^2.12.11",
@@ -82,7 +83,9 @@
     "react": "^16.13.1",
     "react-disqus-comments": "^1.4.0",
     "react-dom": "^16.13.1",
-    "react-helmet": "^5.2.1"
+    "react-helmet": "^5.2.1",
+    "redux": "^3.7.2",
+    "remark-parse": "^6.0.3"
   },
   "devDependencies": {
     "@babel/core": "7.7.4",
