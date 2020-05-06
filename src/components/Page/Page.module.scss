@@ -22,6 +22,18 @@
     @include margin(0, 0, 1);
   }
 
+  input, textarea {
+    border: 1px solid #ccc;
+    font-size: 15px;
+    color: #333;
+    padding: 9px;
+    width: 100%;
+    margin-left: 7px;
+  }
+
+  textarea {
+    min-height: 100px;
+  }
 }
 
 @include breakpoint-sm {
