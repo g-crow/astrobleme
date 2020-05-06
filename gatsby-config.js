@@ -205,11 +205,6 @@ module.exports = {
     'gatsby-plugin-flow',
     'gatsby-plugin-optimize-svgs',
     {
-  resolve: `gatsby-source-contentful`,
-  options: {
-      spaceId: `sz56jm90u9gm`,
-      accessToken: `5iqPsG3xZcDgbMx6h5jEVV89atoxt7lxBaA_mgL3yrM`,
-    },
   },
   ]
 };
