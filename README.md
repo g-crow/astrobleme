@@ -1,4 +1,4 @@
-Persoal blog built using Gatsby starter:
+Persoal blog built with:
 
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
