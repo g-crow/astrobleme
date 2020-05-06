@@ -22,6 +22,10 @@
     @include margin(0, 0, 1);
   }
 
+  label {
+    margin-left: 7px;
+  }
+
   input, textarea {
     border: 1px solid #ccc;
     font-size: 15px;
