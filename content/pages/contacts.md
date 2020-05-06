@@ -4,4 +4,4 @@ template: "page"
 socialImage: "/media/image-4.jpg"
 ---
 
-Let's connect and bulid.
+Let's connect and build.
