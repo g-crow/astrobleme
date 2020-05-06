@@ -35,7 +35,7 @@ module.exports = {
       twitter: '',
       rss: '',
       vkontakte: '',
-      linkedin: 'genevievecrow/',
+      linkedin: 'genevievecrow',
       instagram: 'grnnrvrvr',
       line: '',
       github: 'g-crow',

@@ -1,17 +1,17 @@
 ---
-title: Reflections of a Real Imposter
-date: "2019-12-01T23:46:37.121Z"
+title: Placeholder post
+date: "2020-05-05T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "/posts/reclections-of-a-real-imposter=/"
-category: "Reflections of a Real Imposter"
+category: "in progress"
 tags:
   - "Hello world"
 description: "Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum."
 socialImage: "/media/contribution_chart.png"
 ---
 
-Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.
+Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aen
 
 ![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/contribution_chart.png)
 
